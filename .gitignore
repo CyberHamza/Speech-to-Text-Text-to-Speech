@@ -1,0 +1,10 @@
+# Ignore Visual Studio temporary files, build results, and
+# package management directory
+[Dd]ebug/
+[Rr]elease/
+[Bb]uild/
+.vs/
+*.log
+*.tmp
+*.vsidx
+*.vsconfig

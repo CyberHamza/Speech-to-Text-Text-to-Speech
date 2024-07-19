@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "hD4W/6sHHK8=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\AliHamza\\source\\repos\\Speech to Text & Text to Speech\\Speech to Text & Text to Speech\\Speech to Text & Text to Speech.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\AliHamza\\.nuget\\packages\\system.speech\\8.0.0\\system.speech.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
